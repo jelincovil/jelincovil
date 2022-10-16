@@ -11,5 +11,5 @@ En este perfil de Github encontraras productos de mi trabajo científico y técn
 
 En esta sección listo los repositorios de cursos dictados en pregrado, capacitaciones y postgrado. Lo repositorios contiene videos (o links), presentaciones, base de datos, códigos de programas de análisis y workspace de software.
 
-### Análisis estadístico para Ciencias de la Salud
+### Ciencia de Datos para Ciencias de la Salud
 
