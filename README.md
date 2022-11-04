@@ -13,3 +13,12 @@ En esta sección listo los repositorios de cursos dictados en pregrado, capacita
 
 ### Ciencia de Datos para Ciencias de la Salud
 
+### Introducción a la Estadistica
+  
+### Introducción a la Probabilidad
+  
+  
+  
+  
+  
+
