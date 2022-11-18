@@ -14,10 +14,13 @@ Programa Adulto Mayor Instituto Teodoro Wickel [Proyecto](https://github.com/jel
 
 En esta sección listo los repositorios de cursos dictados en pregrado, capacitaciones y postgrado. Lo repositorios contiene videos (o links), presentaciones, base de datos, códigos de programas de análisis y workspace de software.
 
-### Fundamentos de la Ciencia de Datos con Python.
+### Los Elementos de la Estadística
+(...)
 
-### Estadistica para Administración/Economía  
-  
+### Fundamentos de la Ciencia de Datos con Python.
+(...)
+### Estadística para Administración/Economía  
+(...)  
   
   
   
