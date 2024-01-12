@@ -1,4 +1,4 @@
-## **CARTA DE PRESENTACIÓN**
+# **CARTA DE PRESENTACIÓN**
 
 Hola, mi nombre es Jaime Lincovil, chileno y fanático de la Estadística y la Ciencia de Datos. 
 
@@ -13,19 +13,25 @@ src="https://raw.githubusercontent.com/jelincovil/logos_images/main//icons8-yout
 src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-spotify.svg" width="100"> 
 
 
-## **Trabajos, consultorias y guías**
-Programa Adulto Mayor Instituto Teodoro Wickel [Proyecto](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
+# **Trabajos, consultorias y guías**
 
-Análisis de interacción en redes sociales de participantes del proceso constitucional chilenos 2020.
+## Programa Adulto Mayor Instituto Teodoro Wickel [Proyecto]
+(https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
 
-## **Disciplinas ministradas**
+## Análisis de interacción en redes sociales de participantes del proceso constitucional chileno 2020.
 
-### Teoría Estadística
+# **Disciplinas ministradas**
 
-### Lenguaje y razonamiento estadístico 
+## Teoría Estadística
+
+## Lenguaje y razonamiento estadístico 
 (...)  
+
+## Introducción al análisis estadístico de datos funcionales
+
+## Fundamentos matemáticos de métodos estadísticos para Big-Data
   
-## **Proyectos**
+# **Proyectos**
 1.- Libro: Análisis estadístico via ondaletas (libro). Incluirá códigos en Python.   
 2. Una "gramatica" de la Estadística.
 
