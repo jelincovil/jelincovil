@@ -10,19 +10,22 @@ I implement econometric forecasting models, Monte Carlo and Bootstrap statistica
 ## **Trabajos, consultorias y guías**
 Programa Adulto Mayor Instituto Teodoro Wickel [Proyecto](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
 
-## **Cursos dictados**
+Análisis de interacción en redes sociales de participantes del proceso constitucional chilenos 2020.
 
-En esta sección listo los repositorios de cursos dictados en pregrado, capacitaciones y postgrado. Lo repositorios contiene videos (o links), presentaciones, base de datos, códigos de programas de análisis y workspace de software.
+## **Disciplinas ministradas**
 
-### Los Elementos de la Estadística
-(...)
+### Teoría Estadística
 
-### Fundamentos de la Ciencia de Datos con Python.
-(...)
-### Estadística para Administración/Economía  
+### Lenguaje y razonamiento estadístico 
 (...)  
   
 ## **Proyectos**
 1.- Libro: Análisis estadístico via ondaletas (libro). Incluirá códigos en Python.   
-  
+2. Una "gramatica" de la Estadística.
+
+ ## **En las redes sociales:** Proyecto Evidencia Significativa (ES)
+
+ ## Canal de *Youtube*
+
+ ## Podcast en *Spotify*:
 
