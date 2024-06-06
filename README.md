@@ -15,21 +15,22 @@ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-spoti
 
 # **Trabajos, consultorias y guías**
 
-## Programa Adulto Mayor Instituto Teodoro Wickel [Proyecto]
-(https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
-
-## Análisis de interacción en redes sociales de participantes del proceso constitucional chileno 2020.
+## Programa Adulto Mayor Instituto Teodoro Wickel [Proyecto](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
 
 # **Disciplinas ministradas**
 
 ## Teoría Estadística
 
-## Lenguaje y razonamiento estadístico 
-(...)  
+Curso ministrado para la [Universidad Nacional de Ingeniería](https://portal.uni.edu.pe/) en el programa de Postgrado en Ingeniería Estadística.
+La información extendidda del curso lo puedes encontrar [aquí]()
+
 
 ## Introducción al análisis estadístico de datos funcionales
 
-## Fundamentos matemáticos de métodos estadísticos para Big-Data
+Curso ministrado para la [Universidad Nacional de Ingeniería](https://portal.uni.edu.pe/) en el programa de Magíster en Ingeniería Estadística.
+La información extendidda del curso lo puedes encontrar [aquí]()
+
+% ## Fundamentos matemáticos de métodos estadísticos para Big-Data
   
 # **Proyectos**
 1.- Libro: Análisis estadístico via ondaletas (libro). Incluirá códigos en Python.   
@@ -39,5 +40,5 @@ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-spoti
 
  ## Canal de *Youtube*
 
- ## Podcast en *Spotify*:
+ ## Podcast Evidencia Significativa en *Spotify*:
 
