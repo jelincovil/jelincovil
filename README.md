@@ -22,7 +22,7 @@ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-spoti
 ## Teoría Estadística
 
 Curso ministrado para la [Universidad Nacional de Ingeniería](https://portal.uni.edu.pe/) en el programa de Postgrado en Ingeniería Estadística.
-La información extendidda del curso lo puedes encontrar [aquí]()
+La información extendidda del curso lo puedes encontrar [aquí](https://github.com/jelincovil/un_curso_teoria_estadistica)
 
 
 ## Introducción al análisis estadístico de datos funcionales
@@ -31,7 +31,12 @@ Curso ministrado para la [Universidad Nacional de Ingeniería](https://portal.un
 La información extendidda del curso lo puedes encontrar [aquí]()
 
 % ## Fundamentos matemáticos de métodos estadísticos para Big-Data
-  
+
+## Programación estadística con R
+
+Curso de programamción con R para el Magíster en *Data Science* de la Universidad de Las Américas. La información extendidda del curso lo puedes encontrar [aquí](https://github.com/jelincovil/A_course_R_programming_2024)
+
+
 # **Proyectos**
 1.- Libro: Análisis estadístico via ondaletas (libro). Incluirá códigos en Python.   
 2. Una "gramatica" de la Estadística.
