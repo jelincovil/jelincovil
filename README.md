@@ -34,7 +34,10 @@ La información extendidda del curso lo puedes encontrar [aquí]()
 
 ## Programación estadística con R
 
-Curso de programamción con R para el Magíster en *Data Science* de la Universidad de Las Américas. La información extendidda del curso lo puedes encontrar [aquí](https://github.com/jelincovil/A_course_R_programming_2024)
+Curso de programación con R para el Magíster en *Data Science* de la Universidad de Las Américas. La información extendidda del curso lo puedes encontrar [aquí](https://github.com/jelincovil/A_course_R_programming_2024)
+
+## Curso de Analise de Datos para funcionarios de la salud
+Curso de Analise de Datos para tecnologos médicos, enfermeros, nutricionistas, etc.[Aqui](https://github.com/jelincovil/Ciencia-de-Datos-para-Ciencias-de-la-Salud)
 
 
 # **Proyectos**
