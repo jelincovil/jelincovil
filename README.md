@@ -39,6 +39,8 @@ Curso de programación con R para el Magíster en *Data Science* de la Universid
 ## Curso de Analise de Datos para funcionarios de la salud
 Curso de Analise de Datos para tecnologos médicos, enfermeros, nutricionistas, etc.[Aqui](https://github.com/jelincovil/Ciencia-de-Datos-para-Ciencias-de-la-Salud)
 
+## Fundamentos Matemáticos del Big-Data
+Em breve
 
 # **Proyectos**
 1.- Libro: Análisis estadístico via ondaletas (libro). Incluirá códigos en Python.   
