@@ -30,7 +30,7 @@ La información extendidda del curso lo puedes encontrar [aquí](https://github.
 Curso ministrado para la [Universidad Nacional de Ingeniería](https://portal.uni.edu.pe/) en el programa de Magíster en Ingeniería Estadística.
 La información extendidda del curso lo puedes encontrar [aquí]()
 
-% ## Fundamentos matemáticos de métodos estadísticos para Big-Data
+## Fundamentos matemáticos de métodos estadísticos para Big-Data
 
 ## Programación estadística con R
 
