@@ -3,12 +3,12 @@
 I am statistician and applied data scientist. I love draw information and insight from data. Statistics is the language of Applied Science.
 
 
-[comment]: <img style="float:left;" src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-python.svg" width="80"><img style="float:left;"
-[comment]: src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-r-100.png" width="80"> <img style="float:left;"
-[comment]:src="https://raw.githubusercontent.com/jelincovil/logos_images/main/power_bi_logo.png" width="130"> <img style="float:left;"
-[comment]: src="https://raw.githubusercontent.com/jelincovil/logos_images/main/github.svg" width="60"> <img style="float:left;"
-[comment]: src="https://raw.githubusercontent.com/jelincovil/logos_images/main//icons8-youtube.svg" width="100"> <img style="float:left;"
-[comment]: src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-spotify.svg" width="100"> 
+<!-- Este código no se mostrará  <img style="float:left;" src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-python.svg" width="80"><img style="float:left;"
+ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-r-100.png" width="80"> <img style="float:left;"
+src="https://raw.githubusercontent.com/jelincovil/logos_images/main/power_bi_logo.png" width="130"> <img style="float:left;"
+ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/github.svg" width="60"> <img style="float:left;"
+ src="https://raw.githubusercontent.com/jelincovil/logos_images/main//icons8-youtube.svg" width="100"> <img style="float:left;"
+ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-spotify.svg" width="100">  -->
 
 
 # **Trabajos, consultorias y guías**
@@ -23,12 +23,8 @@ Curso ministrado para la [Universidad Nacional de Ingeniería](https://portal.un
 La información extendidda del curso lo puedes encontrar [aquí](https://github.com/jelincovil/un_curso_teoria_estadistica)
 
 
-## Introducción al análisis estadístico de datos funcionales
+## Inferencia Causal con Python
 
-Curso ministrado para la [Universidad Nacional de Ingeniería](https://portal.uni.edu.pe/) en el programa de Magíster en Ingeniería Estadística.
-La información extendidda del curso lo puedes encontrar [aquí]()
-
-## Fundamentos matemáticos de métodos estadísticos para Big-Data
 
 ## Programación estadística con R
 
