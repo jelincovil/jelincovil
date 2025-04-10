@@ -1,16 +1,14 @@
-# **CARTA DE PRESENTACIÓN**
+# **I INTRODUCE MY SELF**
 
-Hola, mi nombre es Jaime Lincovil, chileno y fanático de la Estadística y la Ciencia de Datos. 
-
-I implement econometric forecasting models, Monte Carlo and Bootstrap statistical tests and databases. I mainly focus on predicting and assessing market risk measures, high dimensional data, data derived from clinical studies. Academic of statistical methods for engineering with R, Python, Power BI and SQL. 
+I am statistician and applied data scientist. I love draw information and insight from data. Statistics is the language of Applied Science.
 
 
-<img style="float:left;" src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-python.svg" width="80"><img style="float:left;"
-src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-r-100.png" width="80"> <img style="float:left;"
-src="https://raw.githubusercontent.com/jelincovil/logos_images/main/power_bi_logo.png" width="130"> <img style="float:left;"
-src="https://raw.githubusercontent.com/jelincovil/logos_images/main/github.svg" width="60"> <img style="float:left;"
-src="https://raw.githubusercontent.com/jelincovil/logos_images/main//icons8-youtube.svg" width="100"> <img style="float:left;"
-src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-spotify.svg" width="100"> 
+[comment]: <img style="float:left;" src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-python.svg" width="80"><img style="float:left;"
+[comment]: src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-r-100.png" width="80"> <img style="float:left;"
+[comment]:src="https://raw.githubusercontent.com/jelincovil/logos_images/main/power_bi_logo.png" width="130"> <img style="float:left;"
+[comment]: src="https://raw.githubusercontent.com/jelincovil/logos_images/main/github.svg" width="60"> <img style="float:left;"
+[comment]: src="https://raw.githubusercontent.com/jelincovil/logos_images/main//icons8-youtube.svg" width="100"> <img style="float:left;"
+[comment]: src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-spotify.svg" width="100"> 
 
 
 # **Trabajos, consultorias y guías**
