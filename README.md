@@ -7,7 +7,7 @@ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/power_bi_log
 
 # **A sample of projects**
 
-- Application of the multinomial logistic model to compare student groups.
+- Application of the multinomial logistic model to compare student groups [link](https://github.com/jelincovil/physical_activity_school_children/blob/main/README.md).
 - Network analysis for social media interactions of constituents of the 2019 Chilean Constitution project.
 - Performance comparison of statistical and machine learning models to predict the MP2.5
 - Noisy image cleaning and image comparison with Deep Learning
