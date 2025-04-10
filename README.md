@@ -11,38 +11,22 @@ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/power_bi_log
  src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-spotify.svg" width="100">  -->
 
 
-# **Trabajos, consultorias y guías**
+# **A sample of projects**
 
-## Programa Adulto Mayor Instituto Teodoro Wickel [Proyecto](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
+- Application of the multinomial logistic model to compare student groups.
 
-# **Disciplinas ministradas**
+- Network analysis for social media interactions of constituents of the 2019 Chilean Constitution project.
 
-## Teoría Estadística
+- Performance comparison of statistical and machine learning models to predict the MP2.5
 
-Curso ministrado para la [Universidad Nacional de Ingeniería](https://portal.uni.edu.pe/) en el programa de Postgrado en Ingeniería Estadística.
-La información extendidda del curso lo puedes encontrar [aquí](https://github.com/jelincovil/un_curso_teoria_estadistica)
+- Noisy image cleaning and image comparison with Deep Learning
 
+- A Chatbot to go from natural descriptions to complex data science models
 
-## Inferencia Causal con Python
+- Programa Adulto Mayor Instituto Teodoro Wickel [Proyecto](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
 
+# **Lectures**
 
-## Programación estadística con R
-
-Curso de programación con R para el Magíster en *Data Science* de la Universidad de Las Américas. La información extendidda del curso lo puedes encontrar [aquí](https://github.com/jelincovil/A_course_R_programming_2024)
-
-## Curso de Analise de Datos para funcionarios de la salud
-Curso de Analise de Datos para tecnologos médicos, enfermeros, nutricionistas, etc.[Aqui](https://github.com/jelincovil/Ciencia-de-Datos-para-Ciencias-de-la-Salud)
-
-## Fundamentos Matemáticos del Big-Data
-Em breve
-
-# **Proyectos**
-1.- Libro: Análisis estadístico via ondaletas (libro). Incluirá códigos en Python.   
-2. Una "gramatica" de la Estadística.
-
- ## **En las redes sociales:** Proyecto Evidencia Significativa (ES)
-
- ## Canal de *Youtube*
-
- ## Podcast Evidencia Significativa en *Spotify*:
-
+- Statistical Theory:  [aquí](https://github.com/jelincovil/un_curso_teoria_estadistica)
+- Causal Inference with Python.
+- Statistical programming with R: [aquí](https://github.com/jelincovil/A_course_R_programming_2024)
