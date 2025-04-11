@@ -11,7 +11,7 @@ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/power_bi_log
 - Network analysis for social media interactions of constituents of the 2019 Chilean Constitution project.
 - Performance comparison of statistical and machine learning models to predict the MP2.5
 - Noisy image cleaning and image comparison with Deep Learning
-- A Chatbot to go from natural descriptions to complex data science models
+- A Chatbot to go from natural descriptions to complex data science models [Link](https://github.com/jelincovil/Stat_Learning_ChatBot_V1)
 - Programa Adulto Mayor Instituto Teodoro Wickel [Proyecto](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
 
 # **Lectures**
