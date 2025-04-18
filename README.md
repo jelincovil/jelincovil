@@ -7,12 +7,12 @@ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/power_bi_log
 
 # **A sample of projects**
 
-- Application of the multinomial logistic model to compare student groups [link](https://github.com/jelincovil/physical_activity_school_children/blob/main/README.md).
-- Network analysis for social media interactions of constituents of the 2019 Chilean Constitution project.
+- Application of the multinomial logistic model to compare student groups [Link](https://github.com/jelincovil/physical_activity_school_children/blob/main/README.md).
+- Network analysis for social media interactions of constituents of the 2019 Chilean Constitution project [Link](https://github.com/jelincovil/fund_multitudes_proceso_constituyente_cl).
 - Performance comparison of statistical and machine Learning Models to predict the MP2.5 [Proyecto](https://github.com/jelincovil/ML_comparisson_mp2.5_Temuco/tree/main)
-- Noisy image cleaning and image comparison with Deep Learning
+- Noisy image cleaning and image comparison with Deep Learning [Link](https://github.com/jelincovil/Noisy_image_cleaning_and_image_comparison_with_Deep_Learning)
 - A Chatbot to go from natural descriptions to complex data science models [Link](https://github.com/jelincovil/Stat_Learning_ChatBot_V1)
-- Programa Adulto Mayor Instituto Teodoro Wickel [Proyecto](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
+- Programa Adulto Mayor Instituto Teodoro Wickel. Estudio de causalidad [Link](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
 
 # **Lectures**
 
