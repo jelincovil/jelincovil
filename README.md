@@ -13,7 +13,7 @@ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/power_bi_log
 - A Chatbot to go from natural descriptions to complex data science models [Link](https://github.com/jelincovil/Stat_Learning_ChatBot_V1)
 - Programa Adulto Mayor Instituto Teodoro Wickel. Estudio de causalidad [Link](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
 - SQL challenger [Link](www.googlecl)
--  Shinny App Probability distribution [with R](www.google.cl) and Exploratory Data calculator [with Python](www.google.cl)
+-  Shinny App Probability distribution [with R](https://github.com/jelincovil/graficos_distribuciones_probabilidad/blob/main/README.md) and Exploratory Data calculator [with Python](www.google.cl)
    
 # **Lectures**
 
