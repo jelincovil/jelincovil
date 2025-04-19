@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/power_bi_log
  src="https://raw.githubusercontent.com/jelincovil/logos_images/main//icons8-youtube.svg" width="100"> <img style="float:left;"
  src="https://raw.githubusercontent.com/jelincovil/logos_images/main/icons8-spotify.svg" width="100">  -->
 
-# **A sample of projects**
+# **Dsc projects**
 
 - Application of the multinomial logistic model to compare student groups [Link](https://github.com/jelincovil/physical_activity_school_children/blob/main/README.md).
 - Performance comparison of statistical and machine Learning Models to predict the MP2.5 [Proyecto](https://github.com/jelincovil/ML_comparisson_mp2.5_Temuco/tree/main)
