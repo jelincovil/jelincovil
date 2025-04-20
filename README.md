@@ -12,7 +12,7 @@ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/power_bi_log
 - Noisy image cleaning and image comparison with Deep Learning [Link](https://github.com/jelincovil/Noisy_image_cleaning_and_image_comparison_with_Deep_Learning)
 - A Chatbot to go from natural descriptions to complex data science models [Link](https://github.com/jelincovil/Stat_Learning_ChatBot_V1)
 - Programa Adulto Mayor Instituto Teodoro Wickel. Estudio de causalidad [Link](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
-- SQL challenger [Link](www.googlecl)
+- Data Mesh trend datascience trends [Link](https://github.com/jelincovil/data_mesh_trend_dsc_bigquery/blob/main/README.md)
 -  Shinny App Probability distribution [with R](https://github.com/jelincovil/graficos_distribuciones_probabilidad/blob/main/README.md) and Exploratory Data calculator [with Python](www.google.cl)
    
 # **Lectures**
