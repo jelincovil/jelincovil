@@ -17,6 +17,6 @@ src="https://raw.githubusercontent.com/jelincovil/logos_images/main/power_bi_log
    
 # **Lectures**
 
-- Statistical Theory:  [aquí](https://github.com/jelincovil/un_curso_teoria_estadistica)
+- Teoría Estadística Avanzada [Aquí](https://github.com/jelincovil/un_curso_teoria_estadistica)
 - Causal Inference with Python.
-- Statistical programming with R: [aquí](https://github.com/jelincovil/A_course_R_programming_2024)
+- Statistical programming with R: [Aquí](https://github.com/jelincovil/A_course_R_programming_2024)
