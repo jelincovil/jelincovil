@@ -22,3 +22,4 @@ Data Scientist with deep expertise in Causal Inference, statistical modelling, a
 - [Teoría Estadística Avanzada (postgrado)](https://github.com/jelincovil/un_curso_teoria_estadistica).
 - Applied Causal Inference with Python. []()
 - [Statistical programming with R (postgrado)](https://github.com/jelincovil/A_course_R_programming_2024).
+- Econometría aplicada con Python (pregrado) ()[].
