@@ -15,7 +15,7 @@ Data Scientist with deep expertise in Causal Inference, statistical modelling, a
 - Programa Adulto Mayor Instituto Teodoro Wickel. Estudio de causalidad [Link](https://github.com/jelincovil/evolucion_encuesta_calidad_vida_salud_nacional_chile/blob/main/estudios_teodoro_wickel_tco/README.md)  
 - Observatorio de Datos para Centrosde Salud (Link) y Estudio observacional de Impacto de centros comunitarios (Link)
 - Application of the multinomial logistic model to compare student groups [Link](https://github.com/jelincovil/physical_activity_school_children/blob/main/README.md).
-- Online causal studies simulator (building) []().
+- [Director del Centro de investigación en Inferencia Causal](https://raw.githubusercontent.com/jelincovil/logos_images/refs/heads/main/logo_uni.png). [Universidad Nacional de Ingeniería, Perú](https://acreditacion.uni.edu.pe/es/statistical/)
 -  Shinny App Probability distribution [with R](https://github.com/jelincovil/graficos_distribuciones_probabilidad/blob/main/README.md) and Exploratory Data calculator [with Python](www.google.cl)
    
 # **Lectures**
