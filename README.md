@@ -19,7 +19,7 @@ Data Scientist with deep expertise in Causal Inference, statistical modelling, a
 -  Shinny App Probability distribution [with R](https://github.com/jelincovil/graficos_distribuciones_probabilidad/blob/main/README.md) and Exploratory Data calculator [with Python](www.google.cl)
    
 # **Lectures**
-- [Teoría Estadística Avanzada (postgrado)](https://github.com/jelincovil/un_curso_teoria_estadistica).
-- Applied Causal Inference with Python. []()
-- [Statistical programming with R (postgrado)](https://github.com/jelincovil/A_course_R_programming_2024).
-- Econometría aplicada con Python (pregrado) ()[].
+- [Teoría Estadística aplicada a agentes estadísticos.](https://github.com/jelincovil/un_curso_teoria_estadistica).
+- [Applied Causal Inference with *Python*.](link)
+- [Statistical programming with *R*.](https://github.com/jelincovil/A_course_R_programming_2024).
+- [Econometría aplicada con Python (pregrado)](link).
